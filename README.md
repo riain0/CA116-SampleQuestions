@@ -8,9 +8,3 @@ You should fill out the answers in the questions file as there are also test met
 # Answers
 
 If you are struggling to answer the questions, or just want to check yours against mine have a look in the answers file.
-
-# Other
-
-Yes, some of the methods are hardcoded, this is just to help with tests. DO NOT HARDCODE! Please for all that's good in the world, do not hardcode.
-
-If there's anything wrong with my code, create an issue!
